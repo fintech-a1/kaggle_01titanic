@@ -1,2 +1,2 @@
 # kaggle_01titanic
-kaggle_01_excercise
+kaggle_transcription_01_excercise
